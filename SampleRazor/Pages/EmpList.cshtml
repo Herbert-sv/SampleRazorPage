@@ -1,0 +1,75 @@
+﻿@page  "/_"
+
+@model IndexModel
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Herbert-sv/SampleRazorPages";
+}
+
+<title>@ViewData["Title"]</title>
+
+<head>
+    <link rel="stylesheet" href="~/css/StyleSheet_Emp.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+         <div class="nav navbar-nav navbar-right" style="font-size:15px; padding-top:15px;">
+             <a href="/blank" style="text-decoration-line:none;color:cyan;"target="_blank">Log Out</a></div>
+     </div>
+</nav>
+<br/>
+
+<h2 class="text-primary">Directory Employees</h2>
+<br />
+
+
+<div class="table-responsive">
+    <table class="table">
+        <tr class="text-primary">
+            <th>Emplyee id</th>
+            <th>Employee FirstName</th>
+            <th>Employee LastName</th>
+            <th>Employee Position</th>
+            <th>Employee Supervisor</th>
+            <th>Employee PhoneNumber</th>
+            <th>Employee EmailAddress</th>
+        </tr>
+        @foreach (var Emp in Model.Emp_)
+        {
+            <tr>
+                <td>@Emp.EmpId</td>
+                <td>@Emp.FirstName</td>
+                <td>@Emp.LastName</td>
+                <td>@Emp.Position</td>
+                <td>@Emp.Superior</td>
+                <td>@Emp.PhoneNumber</td>
+                <td>@Emp.EmailAddress</td>
+                <td><a asp-page="/EmpInfo" asp-page-handler="Emp" asp-route-id="@Emp.EmpId" class="glyphicon glyphicon-user "
+                 title="See Profile !" data-toggle="tooltip" data-placement="left"/></td>
+
+            </tr>
+
+
+        }
+
+    </table>
+</div>
+<br/>
+<br/>
+
+<footer>
+    <p class="well text-primary">
+        &copy; 2020 <a href="https://github.com/herbert-sv" target="_blank">Herbert-sv/SampleRazorPages</a>
+    </p>
+</footer>
+
+<script>
+    $(document).ready(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+    });
+</script>

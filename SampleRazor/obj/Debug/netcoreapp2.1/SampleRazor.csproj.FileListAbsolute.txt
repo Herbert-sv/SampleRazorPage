@@ -1,0 +1,63 @@
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.csprojAssemblyReference.cache
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.csproj.CoreCompileInputs.cache
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.RazorAssemblyInfo.cache
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.RazorAssemblyInfo.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.AssemblyInfoInputs.cache
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.AssemblyInfo.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.TagHelpers.input.cache
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.TagHelpers.output.cache
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.RazorCoreGenerate.cache
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.RazorTargetAssemblyInfo.cache
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.RazorTargetAssemblyInfo.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.dll
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.pdb
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.deps.json
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.runtimeconfig.json
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.runtimeconfig.dev.json
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.dll
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.pdb
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.Views.dll
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.Views.pdb
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.Views.pdb
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.csproj.CopyComplete
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\EmpList.g.cshtml.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\DirectoryAuth\Index.g.cshtml.cs
+C:\Users\tiger\Documents\Visual Studio 2017\Projects\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\EmpInfo.g.cshtml.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.deps.json
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.runtimeconfig.json
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.runtimeconfig.dev.json
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.dll
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.pdb
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.Views.dll
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\bin\Debug\netcoreapp2.1\SampleRazor.Views.pdb
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.csprojAssemblyReference.cache
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.csproj.CoreCompileInputs.cache
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.RazorAssemblyInfo.cache
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.RazorAssemblyInfo.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.AssemblyInfoInputs.cache
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.AssemblyInfo.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.TagHelpers.input.cache
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.TagHelpers.output.cache
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.RazorCoreGenerate.cache
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\DirectoryAuth\Index.g.cshtml.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\EmpInfo.g.cshtml.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\EmpList.g.cshtml.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.RazorTargetAssemblyInfo.cache
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.RazorTargetAssemblyInfo.cs
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.Views.pdb
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.dll
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.pdb
+C:\Users\tiger\Desktop\SampleRazorWebpage\SampleRazor\obj\Debug\netcoreapp2.1\SampleRazor.csproj.CopyComplete

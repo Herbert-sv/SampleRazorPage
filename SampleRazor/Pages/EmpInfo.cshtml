@@ -1,0 +1,63 @@
+﻿@page
+
+
+@model EmpinfoModel
+@{
+    Layout = null;
+    ViewData["Title"] = "Herbert-sv/SampleRazorPages";
+}
+
+<title>@ViewData["Title"]</title>
+
+<head>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="nav navbar-nav navbar-right" style="font-size:15px; padding-top:15px;">
+            <a href="/_" style="text-decoration-line:none;color:cyan" target="_blank">Go back to List</a> |
+            <a href="/blank" style="text-decoration-line:none;color:cyan " target="_blank">Log Out</a>
+        </div>
+    </div>
+</nav>
+<br />
+<br />
+
+<h2 class="text-info">Employee personal Information</h2>
+<br />
+
+<div class="container">
+    <div class="row " style="float:left">
+        <div class="col-md-4">
+            <h6 class="text-info">Employee Id</h6>
+            <p>@Model.EmpPage.EmpId</p>
+            <h6 class="text-info">Employee FirsName</h6>
+            <p>@Model.EmpPage.FirstName</p>
+            <h6 class="text-info">Employee LastName</h6>
+            <p>@Model.EmpPage.LastName</p>
+            <h6 class="text-info">Employees Position</h6>
+            <p>@Model.EmpPage.Position</p>
+            <h6 class="text-info">Employee Superior</h6>
+            <p>@Model.EmpPage.Superior</p>
+            <h6 class="text-info">Employee PhoneNumber</h6>
+            <p>@Model.EmpPage.PhoneNumber</p>
+            <h6 class="text-info">Employees EmailAddress</h6>
+            <p>@Model.EmpPage.EmailAddress</p>
+        </div>
+        <div class="row " style="float:left; padding-left:90px;padding-top:30px">
+            <div class="col-md-4">
+                <img class="img-responsive" src="~/images/User.png" style="width:325px;height:250px" />
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+
+<footer>
+    <p class="well text-primary">
+        &copy; 2020 <a href="https://github.com/herbert-sv" target="_blank">Herbert-sv/SampleRazorPages</a>
+    </p>
+</footer>
